@@ -10,10 +10,11 @@ I have been working BackEnd Engineer since 2017.
 #### Tech Stack
 ![Tech Stack Badge](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)
 ![Tech Stack Badge](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white)
-![Tech Stack Badge](https://img.shields.io/badge/GraphQL-DB3552?style=flat-square&logo=GraphQL&logoColor=white)
 ![Tech Stack Badge](https://img.shields.io/badge/Docker-1572B6?style=flat-square&logo=Docker&logoColor=white)
 ![Tech Stack Badge](https://img.shields.io/badge/Mysql-005571?style=flat-square&logo=MySql&logoColor=white)
 ![Tech Stack Badge](https://img.shields.io/badge/aws-333664?style=flat-square&logo=amazon-aws&logoColor=white)
+#### Learn
+![Tech Stack Badge](https://img.shields.io/badge/GraphQL-DB3552?style=flat-square&logo=GraphQL&logoColor=white)
 
 #### Contect Me
 [![Tech Blog Badge](https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@dogy/)](https://velog.io/@dogy/)
